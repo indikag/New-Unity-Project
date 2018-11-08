@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GlobalVariables.cs">
+    <Files>
+      <File FileName="Assets/GameMaterials/scripts/MoveableObject.cs" Line="26" Column="34" />
+      <File FileName="Assets/Scripts/GlobalVariables.cs" Line="71" Column="6" />
+      <File FileName="Assets/GameMaterials/scripts/BallForce.cs" Line="120" Column="50" />
+      <File FileName="Assets/Scripts/AudioEffect.cs" Line="34" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
